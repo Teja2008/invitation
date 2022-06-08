@@ -1,0 +1,28 @@
+body{
+    background:linear-gradient(rgb(0, 132, 255), pink, orange,yellow, rgb(0, 255, 0),rgb(255, 0, 255) ) }
+#save{
+    font-family: 'Pacifico', cursive;
+}
+#name1{
+    font-family: 'Lobster', cursive;
+}
+#name2{
+    font-family: 'Lobster', cursive;
+}
+#invitation{
+    font-family: 'Bree Serif', serif;
+}
+#quote1{
+    font-family: 'Satisfy', cursive;
+    color: aqua;
+}
+#quote2{
+    font-family: 'Satisfy', cursive;
+    color: aqua;
+}
+#inviting{
+    font-family: 'Space Grotesk', sans-serif;
+}
+#Bcom_af{
+    font-family: 'Space Grotesk', sans-serif;
+}
